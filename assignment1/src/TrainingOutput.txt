@@ -1,96 +1,96 @@
-[2019-04-19 17:02:44 , 1,    50] Loss: 1.9458
-[2019-04-19 17:02:44 , 1,    50] Elapsed time: 8.4361 s
-[2019-04-19 17:02:54 , 1,   100] Loss: 1.4701
-[2019-04-19 17:02:54 , 1,   100] Elapsed time: 9.6549 s
-[2019-04-19 17:03:04 , 1,   150] Loss: 1.0471
-[2019-04-19 17:03:04 , 1,   150] Elapsed time: 9.7704 s
-Accuracy of the network on 16445 test images: 85.9775 %
-Accuracy of the network on 48905 train images: 90.2750 %
-[2019-04-19 17:03:45 , 2,    50] Loss: 0.4929
-[2019-04-19 17:03:45 , 2,    50] Elapsed time: 9.5438 s
-[2019-04-19 17:03:54 , 2,   100] Loss: 0.2935
-[2019-04-19 17:03:54 , 2,   100] Elapsed time: 8.6413 s
-[2019-04-19 17:04:03 , 2,   150] Loss: 0.1868
-[2019-04-19 17:04:03 , 2,   150] Elapsed time: 9.0265 s
-Accuracy of the network on 16445 test images: 96.0413 %
-Accuracy of the network on 48905 train images: 99.3007 %
-[2019-04-19 17:04:40 , 3,    50] Loss: 0.1039
-[2019-04-19 17:04:40 , 3,    50] Elapsed time: 9.1992 s
-[2019-04-19 17:04:49 , 3,   100] Loss: 0.0656
-[2019-04-19 17:04:49 , 3,   100] Elapsed time: 8.7073 s
-[2019-04-19 17:04:58 , 3,   150] Loss: 0.0474
-[2019-04-19 17:04:58 , 3,   150] Elapsed time: 9.3923 s
-Accuracy of the network on 16445 test images: 95.7495 %
-Accuracy of the network on 48905 train images: 99.7526 %
-[2019-04-19 17:05:39 , 4,    50] Loss: 0.0437
-[2019-04-19 17:05:39 , 4,    50] Elapsed time: 9.3679 s
-[2019-04-19 17:05:48 , 4,   100] Loss: 0.0251
-[2019-04-19 17:05:48 , 4,   100] Elapsed time: 8.6942 s
-[2019-04-19 17:05:56 , 4,   150] Loss: 0.0199
-[2019-04-19 17:05:56 , 4,   150] Elapsed time: 8.7339 s
-Accuracy of the network on 16445 test images: 96.5886 %
-Accuracy of the network on 48905 train images: 99.7935 %
-[2019-04-19 17:06:35 , 5,    50] Loss: 0.0334
-[2019-04-19 17:06:35 , 5,    50] Elapsed time: 9.3693 s
-[2019-04-19 17:06:44 , 5,   100] Loss: 0.0143
-[2019-04-19 17:06:44 , 5,   100] Elapsed time: 8.6975 s
-[2019-04-19 17:06:52 , 5,   150] Loss: 0.0116
-[2019-04-19 17:06:52 , 5,   150] Elapsed time: 8.5914 s
-Accuracy of the network on 16445 test images: 97.8413 %
-Accuracy of the network on 48905 train images: 99.9980 %
-[2019-04-19 17:07:30 , 6,    50] Loss: 0.0153
-[2019-04-19 17:07:30 , 6,    50] Elapsed time: 9.3631 s
-[2019-04-19 17:07:37 , 6,   100] Loss: 0.0084
-[2019-04-19 17:07:37 , 6,   100] Elapsed time: 7.1661 s
-[2019-04-19 17:07:43 , 6,   150] Loss: 0.0071
-[2019-04-19 17:07:43 , 6,   150] Elapsed time: 5.8006 s
-Accuracy of the network on 16445 test images: 98.1088 %
-Accuracy of the network on 48905 train images: 99.9980 %
-[2019-04-19 17:08:21 , 7,    50] Loss: 0.0095
-[2019-04-19 17:08:21 , 7,    50] Elapsed time: 9.6564 s
-[2019-04-19 17:08:31 , 7,   100] Loss: 0.0059
-[2019-04-19 17:08:31 , 7,   100] Elapsed time: 9.7139 s
-[2019-04-19 17:08:40 , 7,   150] Loss: 0.0050
-[2019-04-19 17:08:40 , 7,   150] Elapsed time: 8.9544 s
-Accuracy of the network on 16445 test images: 97.7987 %
-Accuracy of the network on 48905 train images: 99.9959 %
-[2019-04-19 17:09:19 , 8,    50] Loss: 0.0296
-[2019-04-19 17:09:19 , 8,    50] Elapsed time: 9.4720 s
-[2019-04-19 17:09:28 , 8,   100] Loss: 0.0068
-[2019-04-19 17:09:28 , 8,   100] Elapsed time: 8.6174 s
-[2019-04-19 17:09:37 , 8,   150] Loss: 0.0049
-[2019-04-19 17:09:37 , 8,   150] Elapsed time: 8.8937 s
-Accuracy of the network on 16445 test images: 90.3557 %
-Accuracy of the network on 48905 train images: 95.4279 %
-[2019-04-19 17:10:17 , 9,    50] Loss: 0.0406
-[2019-04-19 17:10:17 , 9,    50] Elapsed time: 8.8535 s
-[2019-04-19 17:10:24 , 9,   100] Loss: 0.0067
-[2019-04-19 17:10:24 , 9,   100] Elapsed time: 7.4999 s
-[2019-04-19 17:10:32 , 9,   150] Loss: 0.0047
-[2019-04-19 17:10:32 , 9,   150] Elapsed time: 7.9812 s
-Accuracy of the network on 16445 test images: 98.1453 %
-Accuracy of the network on 48905 train images: 99.9980 %
-[2019-04-19 17:11:10 , 10,    50] Loss: 0.0119
-[2019-04-19 17:11:10 , 10,    50] Elapsed time: 9.1844 s
-[2019-04-19 17:11:19 , 10,   100] Loss: 0.0041
-[2019-04-19 17:11:19 , 10,   100] Elapsed time: 8.5565 s
-[2019-04-19 17:11:27 , 10,   150] Loss: 0.0033
-[2019-04-19 17:11:27 , 10,   150] Elapsed time: 8.5759 s
-Accuracy of the network on 16445 test images: 96.7224 %
+[2019-04-22 00:24:43 , 1,    50] Loss: 2.0690
+[2019-04-22 00:24:43 , 1,    50] Elapsed time: 8.8254 s
+[2019-04-22 00:24:52 , 1,   100] Loss: 1.8019
+[2019-04-22 00:24:52 , 1,   100] Elapsed time: 8.7794 s
+[2019-04-22 00:25:01 , 1,   150] Loss: 1.5890
+[2019-04-22 00:25:01 , 1,   150] Elapsed time: 8.7525 s
+Accuracy of the network on 16445 test images: 73.7367 %
+Accuracy of the network on 48905 train images: 77.9348 %
+[2019-04-22 00:25:40 , 2,    50] Loss: 1.2278
+[2019-04-22 00:25:40 , 2,    50] Elapsed time: 9.0445 s
+[2019-04-22 00:25:48 , 2,   100] Loss: 1.0368
+[2019-04-22 00:25:48 , 2,   100] Elapsed time: 8.5469 s
+[2019-04-22 00:25:56 , 2,   150] Loss: 0.8704
+[2019-04-22 00:25:56 , 2,   150] Elapsed time: 8.4041 s
+Accuracy of the network on 16445 test images: 88.2700 %
+Accuracy of the network on 48905 train images: 92.2421 %
+[2019-04-22 00:26:36 , 3,    50] Loss: 0.6224
+[2019-04-22 00:26:36 , 3,    50] Elapsed time: 9.1400 s
+[2019-04-22 00:26:44 , 3,   100] Loss: 0.5037
+[2019-04-22 00:26:44 , 3,   100] Elapsed time: 8.3776 s
+[2019-04-22 00:26:52 , 3,   150] Loss: 0.4159
+[2019-04-22 00:26:52 , 3,   150] Elapsed time: 8.1215 s
+Accuracy of the network on 16445 test images: 93.9860 %
+Accuracy of the network on 48905 train images: 97.6935 %
+[2019-04-22 00:27:30 , 4,    50] Loss: 0.2962
+[2019-04-22 00:27:30 , 4,    50] Elapsed time: 8.9172 s
+[2019-04-22 00:27:38 , 4,   100] Loss: 0.2337
+[2019-04-22 00:27:38 , 4,   100] Elapsed time: 8.4550 s
+[2019-04-22 00:27:47 , 4,   150] Loss: 0.1947
+[2019-04-22 00:27:47 , 4,   150] Elapsed time: 8.4260 s
+Accuracy of the network on 16445 test images: 95.4272 %
+Accuracy of the network on 48905 train images: 98.7425 %
+[2019-04-22 00:28:26 , 5,    50] Loss: 0.1598
+[2019-04-22 00:28:26 , 5,    50] Elapsed time: 9.0158 s
+[2019-04-22 00:28:34 , 5,   100] Loss: 0.1193
+[2019-04-22 00:28:34 , 5,   100] Elapsed time: 8.5938 s
+[2019-04-22 00:28:43 , 5,   150] Loss: 0.1007
+[2019-04-22 00:28:43 , 5,   150] Elapsed time: 8.4082 s
+Accuracy of the network on 16445 test images: 96.4244 %
+Accuracy of the network on 48905 train images: 99.8569 %
+[2019-04-22 00:29:19 , 6,    50] Loss: 0.0998
+[2019-04-22 00:29:19 , 6,    50] Elapsed time: 7.3772 s
+[2019-04-22 00:29:27 , 6,   100] Loss: 0.0675
+[2019-04-22 00:29:27 , 6,   100] Elapsed time: 7.7380 s
+[2019-04-22 00:29:36 , 6,   150] Loss: 0.0595
+[2019-04-22 00:29:36 , 6,   150] Elapsed time: 8.6034 s
+Accuracy of the network on 16445 test images: 96.8683 %
 Accuracy of the network on 48905 train images: 99.7056 %
-[2019-04-19 17:12:07 , 11,    50] Loss: 0.0218
-[2019-04-19 17:12:07 , 11,    50] Elapsed time: 9.6467 s
-[2019-04-19 17:12:16 , 11,   100] Loss: 0.0042
-[2019-04-19 17:12:16 , 11,   100] Elapsed time: 9.2085 s
-[2019-04-19 17:12:25 , 11,   150] Loss: 0.0033
-[2019-04-19 17:12:25 , 11,   150] Elapsed time: 8.9385 s
-Accuracy of the network on 16445 test images: 98.4068 %
-Accuracy of the network on 48905 train images: 100.0000 %
-[2019-04-19 17:13:03 , 12,    50] Loss: 0.0039
-[2019-04-19 17:13:03 , 12,    50] Elapsed time: 9.3584 s
-[2019-04-19 17:13:12 , 12,   100] Loss: 0.0023
-[2019-04-19 17:13:12 , 12,   100] Elapsed time: 9.0384 s
-[2019-04-19 17:13:21 , 12,   150] Loss: 0.0021
-[2019-04-19 17:13:21 , 12,   150] Elapsed time: 9.1056 s
-Accuracy of the network on 16445 test images: 98.2061 %
-Accuracy of the network on 48905 train images: 99.9652 %
+[2019-04-22 00:30:13 , 7,    50] Loss: 0.0743
+[2019-04-22 00:30:13 , 7,    50] Elapsed time: 8.9984 s
+[2019-04-22 00:30:22 , 7,   100] Loss: 0.0449
+[2019-04-22 00:30:22 , 7,   100] Elapsed time: 8.3949 s
+[2019-04-22 00:30:30 , 7,   150] Loss: 0.0400
+[2019-04-22 00:30:30 , 7,   150] Elapsed time: 8.5216 s
+Accuracy of the network on 16445 test images: 97.5859 %
+Accuracy of the network on 48905 train images: 99.9836 %
+[2019-04-22 00:31:08 , 8,    50] Loss: 0.0446
+[2019-04-22 00:31:08 , 8,    50] Elapsed time: 9.0702 s
+[2019-04-22 00:31:17 , 8,   100] Loss: 0.0315
+[2019-04-22 00:31:17 , 8,   100] Elapsed time: 8.2140 s
+[2019-04-22 00:31:25 , 8,   150] Loss: 0.0275
+[2019-04-22 00:31:25 , 8,   150] Elapsed time: 8.3349 s
+Accuracy of the network on 16445 test images: 97.3548 %
+Accuracy of the network on 48905 train images: 99.7996 %
+[2019-04-22 00:32:02 , 9,    50] Loss: 0.0403
+[2019-04-22 00:32:02 , 9,    50] Elapsed time: 9.0991 s
+[2019-04-22 00:32:11 , 9,   100] Loss: 0.0234
+[2019-04-22 00:32:11 , 9,   100] Elapsed time: 8.5525 s
+[2019-04-22 00:32:19 , 9,   150] Loss: 0.0213
+[2019-04-22 00:32:19 , 9,   150] Elapsed time: 8.8131 s
+Accuracy of the network on 16445 test images: 97.7014 %
+Accuracy of the network on 48905 train images: 99.9959 %
+[2019-04-22 00:33:00 , 10,    50] Loss: 0.0271
+[2019-04-22 00:33:00 , 10,    50] Elapsed time: 10.1095 s
+[2019-04-22 00:33:10 , 10,   100] Loss: 0.0182
+[2019-04-22 00:33:10 , 10,   100] Elapsed time: 9.6276 s
+[2019-04-22 00:33:18 , 10,   150] Loss: 0.0166
+[2019-04-22 00:33:18 , 10,   150] Elapsed time: 8.7161 s
+Accuracy of the network on 16445 test images: 97.9386 %
+Accuracy of the network on 48905 train images: 99.9959 %
+[2019-04-22 00:33:58 , 11,    50] Loss: 0.0175
+[2019-04-22 00:33:58 , 11,    50] Elapsed time: 9.1996 s
+[2019-04-22 00:34:07 , 11,   100] Loss: 0.0139
+[2019-04-22 00:34:07 , 11,   100] Elapsed time: 8.6696 s
+[2019-04-22 00:34:16 , 11,   150] Loss: 0.0136
+[2019-04-22 00:34:16 , 11,   150] Elapsed time: 8.5443 s
+Accuracy of the network on 16445 test images: 98.2122 %
+Accuracy of the network on 48905 train images: 99.9959 %
+[2019-04-22 00:34:55 , 12,    50] Loss: 0.0151
+[2019-04-22 00:34:55 , 12,    50] Elapsed time: 9.3013 s
+[2019-04-22 00:35:03 , 12,   100] Loss: 0.0118
+[2019-04-22 00:35:03 , 12,   100] Elapsed time: 8.3385 s
+[2019-04-22 00:35:11 , 12,   150] Loss: 0.0118
+[2019-04-22 00:35:11 , 12,   150] Elapsed time: 8.1976 s
+Accuracy of the network on 16445 test images: 98.0116 %
+Accuracy of the network on 48905 train images: 99.9980 %
